@@ -27,5 +27,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 computer science student at kfu university intersted in
 data science, machine learning.
 
-### More abour project
+### More about project
 In this project, I had to use the ideas of Python, Numpy, and Pandas to solve a real-world data analysis problem. It significantly aided me in developing and enhancing my talents.
