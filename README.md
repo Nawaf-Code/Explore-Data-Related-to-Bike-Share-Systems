@@ -9,6 +9,11 @@ explore data related to bike share systems
 ### Description
 Use Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
+Main function of project:
+	- Popular times of travel
+	- Popular stations and trip
+	- Trip duration
+
 ### Files used
 bikeshare.py
 chicago.csv
