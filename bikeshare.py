@@ -1,3 +1,10 @@
+"""
+Description of project
+Use Python to explore data related to bike share systems for three major cities in the
+    -United States—Chicago
+    -New York City
+    -Washington
+"""
 import time
 import pandas as pd
 import numpy as np
