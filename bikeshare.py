@@ -210,6 +210,20 @@ def raw_data(df):
         else:
             print("Invalid input, Please try again.\n\n")
 
+def print_my_info():
+    while True:
+        ans = input("Would you like to see the information of programmer?").lower()
+        if ans == 'yes':
+            print("Name: Nawaf Saeed Alzuwaymil")
+            print("Major: Computer Scince")
+            print("Itersted: Data Scince and Machine Learning")
+            print("Email: nawaf.zumlx@gmail.com")
+            print("Github: Nawaf-Code")
+        elif ans == 'no':
+            break
+        else:
+            print("Invalid input, Please try again.\n\n")
+
 def main():
     while True:
         city, month, day = get_filters()
