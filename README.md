@@ -24,7 +24,7 @@ washington.csv
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 ### About me
-computer science student at kfu university intersted in
+Computer science student at kfu university intersted in
 data science and AI.
 
 ### More about project
